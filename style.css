@@ -1,0 +1,125 @@
+body{
+    background-color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.q{
+    background-color: rgb(3, 3, 35);
+    color: white;
+    padding: 50px;
+   
+}
+.to{
+    display: flex;
+}
+.do{
+    display: flex;
+}
+/*.do div{
+    flex: 1 1 0%;
+}*/
+.jo{
+   padding-right: 30rem; 
+}
+.ho{
+    padding-right: 3rem;
+}
+.po{
+    padding-right: 3rem;
+}
+.pi{
+    padding-right: 3rem;
+}
+
+.h{
+    background-color: rgba(187, 183, 183, 0.927);
+
+    padding: 50px;
+    margin: 15px;
+    height: 50px;
+    width: 200px;
+}
+.d{
+    background-color: rgb(39, 39, 212);
+    border-radius: 5px;
+    padding: 10px;
+    border: 20px
+}
+.flexcontainer{
+    display:flex;
+    flex-wrap: nowrap;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.flexcontainer div{
+    padding: 50px;
+   /* border: 1px blue solid
+    border-radius: 20px
+    text-align: center; 
+    height: 80px;
+    width: 50px;*/
+    
+}
+.bo{
+    padding: 50px;
+    border: 1px blue solid;
+    border-radius: 20px;
+    text-align: center;
+   
+    
+    
+    height: 50px;
+    width: 50px;
+}
+
+.r{
+    background-color: rgba(125, 122, 122, 0.299);
+    padding: 50px;
+    align-content: center;
+    justify-content: center;
+    
+}
+.i{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.t{
+    background-color: blue;
+    color:white;
+    padding: 15px;
+    margin: 70px;
+    border:10px;
+    border-radius: 10px;
+    height: 100px;
+    display: flex;
+    
+}
+.v{
+    flex: 2;
+}
+.k{
+    flex:1;
+    justify-content: space-around;
+    align-items: stretch;
+    padding: 7px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: blue;
+
+}
+.l{
+    background-color: rgb(3, 3, 35);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.so{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
